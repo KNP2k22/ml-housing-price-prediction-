@@ -16,7 +16,7 @@ Linear-Regression-Project.ipynb: Jupyter ноутбуки с пошаговым 
 
 README.md: Информация о проекте, его целях и использованных методах.
 
-Запуск Проекта
+###Запуск Проекта
 Убедитесь, что у вас установлены необходимые библиотеки: numpy, pandas, matplotlib, seaborn, scikit-learn.
 Запустите Jupyter ноутбуки из папки notebooks/ в порядке их нумерации.
 
